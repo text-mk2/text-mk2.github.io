@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
     "path": "/tags/elden-ring",
-    "result": {"data":{"allPost":{"nodes":[{"slug":"/ゴドリックの評判","title":"ゴドリックの評判","date":"2022-04-15","excerpt":"…","timeToRead":1,"description":"血が薄い 最も弱い マルギットより弱い マレニアに土下座","tags":[{"name":"怪文書","slug":"怪文書"},{"name":"タクヤさん","slug":"タクヤさん"},{"name":"Elden Ring","slug":"elden-ring"}]}]}},"pageContext":{"slug":"elden-ring","name":"Elden Ring","formatString":"YYYY-MM-DD"}},
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/godrick","title":"ゴドリックの評判","date":"2022-04-15","excerpt":"…","timeToRead":1,"description":"血が薄い 最も弱い マルギットより弱い マレニアに土下座","tags":[{"name":"怪文書","slug":"怪文書"},{"name":"タクヤさん","slug":"タクヤさん"},{"name":"Elden Ring","slug":"elden-ring"}]}]}},"pageContext":{"slug":"elden-ring","name":"Elden Ring","formatString":"YYYY-MM-DD"}},
     "staticQueryHashes": ["2744905544","3090400250","318001574"]}
