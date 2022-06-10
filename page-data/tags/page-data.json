@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx",
     "path": "/tags",
-    "result": {"data":{"allPost":{"group":[{"fieldValue":"Elden Ring","totalCount":1},{"fieldValue":"その他","totalCount":3},{"fieldValue":"タクヤさん","totalCount":4},{"fieldValue":"怪文書","totalCount":6}]}},"pageContext":{}},
+    "result": {"data":{"allPost":{"group":[{"fieldValue":"Elden Ring","totalCount":1},{"fieldValue":"その他","totalCount":3},{"fieldValue":"タクヤさん","totalCount":5},{"fieldValue":"怪文書","totalCount":7}]}},"pageContext":{}},
     "staticQueryHashes": ["2744905544","3090400250","318001574"]}
