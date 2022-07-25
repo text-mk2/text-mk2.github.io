@@ -1,3 +1,4 @@
 User-agent: *
-
-sitemap: https://text-mk2.github.io/sitemap-index.xml
+Allow: /
+Sitemap: https://text-mk2.github.io/sitemap-0.xml
+Host: https://text-mk2.github.io
